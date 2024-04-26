@@ -1,4 +1,4 @@
-// app.js
+// circle.js,rectangle.js,traingle.js
 
 // Import functions from the shape modules
 const circle = require('./circle.js');
